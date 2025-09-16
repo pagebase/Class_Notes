@@ -545,6 +545,34 @@ Data collection is the **systematic process of gathering information** from vari
 
 2. **Secondary Data** – Data already collected by others, used for reference or further analysis (e.g., government reports, published research, company records).
 
+    **Examples:**
+
+    Government reports and census data
+
+    Company financial statements
+
+    Research articles, books, and journals
+
+    Online databases and websites
+
+    Newspapers and magazines
+
+    **Advantages:**
+
+    Easily available and inexpensive.
+
+    Saves time and effort.
+
+    Useful for preliminary research and background information.
+
+    **Disadvantages:**
+
+    May be outdated or irrelevant.
+
+    Accuracy and reliability depend on the original source.
+
+    May not perfectly fit the current research objective.
+
 ---
 
 ### 🔹 **Methods of Data Collection**
