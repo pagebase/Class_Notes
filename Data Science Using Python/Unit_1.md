@@ -1,6 +1,12 @@
 # Table of cotents
 
 - [Evolution of data science](#evolution-of-data-science)
+- [Data science life cycle](#data-science-life-cycle)
+- [Data science roles](#data-science-roles)
+- [Stages in data science roles](#stages-in-data-science-projects)
+- [Application of data science](#application-of-data-science)
+- [Data security issues](#data-security-issues)
+- 
 ---
 # Evolution of data science
 ## 1. **Early Foundations (Before 1950s)**
