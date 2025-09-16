@@ -8,7 +8,7 @@
 - [Data security issues](#data-security-issues)
 - [Introduction to collection of data](#introduction-to-collection-of-data)
 - [Statistical error](#Statistical-error)
--[Rounding off data](#rounding-off-data)
+- [Rounding off data](#rounding-off-data)
 ---
 # Evolution of data science
 ## 1. **Early Foundations (Before 1950s)**
