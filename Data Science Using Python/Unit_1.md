@@ -96,7 +96,7 @@
 ---
 # Data science life cycle
 
-![Data science life cycle diagram](./img_1.webp)
+![Data science life cycle diagram](../img_1.webp)
 
 ---
 # Data science roles
