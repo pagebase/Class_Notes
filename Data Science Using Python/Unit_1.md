@@ -1,4 +1,4 @@
-# Table of cotents
+# Table of content
 
 - [Evolution of data science](#evolution-of-data-science)
 - [Data science life cycle](#data-science-life-cycle)
