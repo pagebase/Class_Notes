@@ -6,7 +6,7 @@
 - [Stages in data science roles](#stages-in-data-science-projects)
 - [Application of data science](#application-of-data-science)
 - [Data security issues](#data-security-issues)
-
+- [Introduction to collection of data](#introduction-to-collection-of-data)
 ---
 # Evolution of data science
 ## 1. **Early Foundations (Before 1950s)**
@@ -494,5 +494,52 @@ Data security issues arise when sensitive information is exposed, misused, or co
 ---
 
 ✅ **In short:** Data security issues include **breaches, unauthorized access, malware, phishing, insecure networks, poor encryption, data loss, and compliance risks**.
+
+---
+# 📌 **Introduction to Collection of Data**
+
+Data collection is the **systematic process of gathering information** from various sources to analyze, interpret, and make decisions. In statistics, research, and data science, it forms the **foundation for any study or project**. Without reliable data, the conclusions drawn may be misleading or incorrect.
+
+---
+
+### 🔹 **Objectives of Data Collection**
+
+* To obtain accurate and relevant information.
+* To provide a basis for analysis and decision-making.
+* To understand patterns, trends, and relationships.
+* To support predictions, planning, and policy-making.
+
+---
+
+### 🔹 **Types of Data Collected**
+
+1. **Primary Data** – First-hand information collected directly by the researcher (e.g., surveys, experiments, interviews).
+2. **Secondary Data** – Data already collected by others, used for reference or further analysis (e.g., government reports, published research, company records).
+
+---
+
+### 🔹 **Methods of Data Collection**
+
+* **Survey Method** (questionnaires, interviews).
+* **Observation Method** (watching and recording behavior/events).
+* **Experimental Method** (conducting experiments under controlled conditions).
+* **Case Study Method** (detailed study of an individual or group).
+* **Use of Secondary Sources** (books, articles, databases).
+
+---
+
+### 🔹 **Qualities of Good Data**
+
+* Accuracy
+* Reliability
+* Relevance
+* Timeliness
+* Completeness
+
+---
+
+✅ **In summary:** Collection of data is the **first step in research and analysis**, where relevant information is gathered through systematic methods. The quality of data collected directly affects the **validity of conclusions**.
+
+Would you like me to also create a **diagram/flowchart** showing the process of data collection (from identifying the problem → choosing methods → collecting → analyzing)?
 
 ---
