@@ -515,33 +515,33 @@ Data collection is the **systematic process of gathering information** from vari
 
 1. **Primary Data** – First-hand information collected directly by the researcher (e.g., surveys, experiments, interviews).
 
-**Examples:**
+    **Examples:**
 
-Surveys and questionnaires
+    Surveys and questionnaires
 
-Interviews (face-to-face/telephonic)
+    Interviews (face-to-face/telephonic)
 
-Experiments and field studies
+    Experiments and field studies
 
-Direct observations
+    Direct observations
 
-Focus group discussions
+    Focus group discussions
 
-**Advantages:**
+    **Advantages:**
 
-Highly reliable and accurate (collected for the exact problem).
+    Highly reliable and accurate (collected for the exact problem).
 
-Data is up-to-date and relevant.
+    Data is up-to-date and relevant.
 
-Researcher has control over collection methods.
+    Researcher has control over collection methods.
 
-**Disadvantages:**
+    **Disadvantages:**
 
-Time-consuming and costly.
+    Time-consuming and costly.
 
-Requires planning, manpower, and resources.
+    Requires planning, manpower, and resources.
 
-Sometimes difficult to collect (e.g., sensitive topics).
+    Sometimes difficult to collect (e.g., sensitive topics).
 
 2. **Secondary Data** – Data already collected by others, used for reference or further analysis (e.g., government reports, published research, company records).
 
