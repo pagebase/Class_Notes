@@ -556,6 +556,7 @@ Primary data is **first-hand information** collected directly by the researcher.
 * Example: Watching customer behavior in a store.
 
 **Advantages:** Direct, real-time data; useful for behavioral studies.
+
 **Disadvantages:** Time-consuming, may involve observer bias.
 
 ---
@@ -570,6 +571,7 @@ Primary data is **first-hand information** collected directly by the researcher.
   * **Online/video interviews**.
 
 **Advantages:** Provides detailed information, allows clarification of doubts.
+
 **Disadvantages:** Expensive, requires skilled interviewers, can be biased.
 
 ---
@@ -580,6 +582,7 @@ Primary data is **first-hand information** collected directly by the researcher.
 * Can be **open-ended** (free responses) or **close-ended** (multiple choice).
 
 **Advantages:** Covers large samples quickly, low cost, standardized data.
+
 **Disadvantages:** Low response rate, depends on respondent honesty.
 
 ---
@@ -590,6 +593,7 @@ Primary data is **first-hand information** collected directly by the researcher.
 * Can be conducted via **face-to-face, phone, online forms, or email**.
 
 **Advantages:** Suitable for large-scale studies; quantitative data.
+
 **Disadvantages:** Respondents may give inaccurate answers; costly for big samples.
 
 ---
@@ -600,6 +604,7 @@ Primary data is **first-hand information** collected directly by the researcher.
 * Example: Testing the impact of a new teaching method on student performance.
 
 **Advantages:** High accuracy; establishes causal links.
+
 **Disadvantages:** Expensive; not always practical in real life.
 
 ---
@@ -610,6 +615,7 @@ Primary data is **first-hand information** collected directly by the researcher.
 * Useful for understanding opinions, attitudes, and motivations.
 
 **Advantages:** Provides rich, qualitative insights.
+
 **Disadvantages:** Not statistically representative; can be influenced by dominant participants.
 
 ---
@@ -620,6 +626,7 @@ Primary data is **first-hand information** collected directly by the researcher.
 * Example: Studying the success of a company’s marketing campaign.
 
 **Advantages:** Provides detailed, contextual insights.
+
 **Disadvantages:** Time-consuming; limited generalizability.
 
 ---
