@@ -542,6 +542,7 @@ Time-consuming and costly.
 Requires planning, manpower, and resources.
 
 Sometimes difficult to collect (e.g., sensitive topics).
+
 2. **Secondary Data** – Data already collected by others, used for reference or further analysis (e.g., government reports, published research, company records).
 
 ---
