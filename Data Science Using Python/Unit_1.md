@@ -543,6 +543,94 @@ Data collection is the **systematic process of gathering information** from vari
 
     Sometimes difficult to collect (e.g., sensitive topics).
 
+## Methods of collecting primary data
+
+Primary data is **first-hand information** collected directly by the researcher. The main methods include:
+
+---
+
+### 1. **Observation Method**
+
+* The researcher observes people, events, or situations and records relevant facts.
+* Can be **structured** (planned, systematic) or **unstructured** (flexible).
+* Example: Watching customer behavior in a store.
+
+**Advantages:** Direct, real-time data; useful for behavioral studies.
+**Disadvantages:** Time-consuming, may involve observer bias.
+
+---
+
+### 2. **Interview Method**
+
+* Data collected by asking questions directly to respondents.
+* Types:
+
+  * **Personal interview** (face-to-face).
+  * **Telephonic interview**.
+  * **Online/video interviews**.
+
+**Advantages:** Provides detailed information, allows clarification of doubts.
+**Disadvantages:** Expensive, requires skilled interviewers, can be biased.
+
+---
+
+### 3. **Questionnaire Method**
+
+* Respondents fill out a set of written questions (paper-based or online).
+* Can be **open-ended** (free responses) or **close-ended** (multiple choice).
+
+**Advantages:** Covers large samples quickly, low cost, standardized data.
+**Disadvantages:** Low response rate, depends on respondent honesty.
+
+---
+
+### 4. **Survey Method**
+
+* Collects data from a large number of respondents through structured questions.
+* Can be conducted via **face-to-face, phone, online forms, or email**.
+
+**Advantages:** Suitable for large-scale studies; quantitative data.
+**Disadvantages:** Respondents may give inaccurate answers; costly for big samples.
+
+---
+
+### 5. **Experimental Method**
+
+* Researcher conducts experiments under controlled conditions to study cause-effect relationships.
+* Example: Testing the impact of a new teaching method on student performance.
+
+**Advantages:** High accuracy; establishes causal links.
+**Disadvantages:** Expensive; not always practical in real life.
+
+---
+
+### 6. **Focus Groups / Group Discussions**
+
+* A small group of people discusses a topic under the guidance of a moderator.
+* Useful for understanding opinions, attitudes, and motivations.
+
+**Advantages:** Provides rich, qualitative insights.
+**Disadvantages:** Not statistically representative; can be influenced by dominant participants.
+
+---
+
+### 7. **Case Study Method**
+
+* In-depth investigation of a single case (person, organization, event).
+* Example: Studying the success of a company’s marketing campaign.
+
+**Advantages:** Provides detailed, contextual insights.
+**Disadvantages:** Time-consuming; limited generalizability.
+
+---
+
+## ✅ **In summary:**
+
+The main **methods of collecting primary data** are:
+**Observation, Interviews, Questionnaires, Surveys, Experiments, Focus Groups, and Case Studies.**
+
+---
+
 2. **Secondary Data** – Data already collected by others, used for reference or further analysis (e.g., government reports, published research, company records).
 
     **Examples:**
