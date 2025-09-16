@@ -7,6 +7,8 @@
 - [Application of data science](#application-of-data-science)
 - [Data security issues](#data-security-issues)
 - [Introduction to collection of data](#introduction-to-collection-of-data)
+- [Statistical error](#Statistical-error)
+-[Rounding off data](#rounding-off-data)
 ---
 # Evolution of data science
 ## 1. **Early Foundations (Before 1950s)**
@@ -778,5 +780,114 @@ Data that is publicly available in printed or digital form.
 ✅ **In summary:** Collection of data is the **first step in research and analysis**, where relevant information is gathered through systematic methods. The quality of data collected directly affects the **validity of conclusions**.
 
 Would you like me to also create a **diagram/flowchart** showing the process of data collection (from identifying the problem → choosing methods → collecting → analyzing)?
+
+---
+# Statistical error
+
+In statistics, **errors** are the differences between the actual (true) value and the observed (measured/estimated) value. They may occur due to **limitations in data collection, sampling, measurement, or analysis**.
+
+Errors can be broadly classified into **two main types**:
+
+---
+
+## 🔹 **1. Sampling Errors**
+
+Errors that arise **when only a part of the population (sample) is studied** instead of the whole population.
+
+* **Causes:**
+
+  * Small or unrepresentative samples
+  * Faulty sampling techniques
+  * Random chance variations
+
+* **Examples:**
+
+  * Estimating the average income using a small group that doesn’t represent the population.
+
+* **Control Methods:**
+
+  * Increase sample size
+  * Use proper random sampling techniques
+  * Apply statistical corrections (e.g., standard error, confidence intervals)
+
+---
+
+## 🔹 **2. Non-Sampling Errors**
+
+Errors that can occur **at any stage of the research process**, whether a sample or census is used.
+
+### Common Types:
+
+1. **Measurement Errors** – Inaccuracies in data collection (faulty instruments, respondent misreporting).
+2. **Response Errors** – When respondents give false, incomplete, or misleading answers.
+3. **Non-Response Errors** – When selected individuals do not respond (e.g., ignoring surveys).
+4. **Processing Errors** – Mistakes in coding, tabulation, or analysis.
+5. **Coverage Errors** – When some groups of the population are left out or counted twice.
+
+---
+
+## 🔹 **3. Other Classifications of Errors**
+
+* **Systematic Errors** → Consistent, predictable errors due to faulty instruments or biased methods.
+* **Random Errors** → Unpredictable fluctuations due to chance or uncontrollable factors.
+* **Blunders** → Careless mistakes (e.g., typing or recording errors).
+
+---
+# Rounding off data
+
+Rounding off is the process of **approximating a number** to make it **simpler, easier to use, or easier to report**, while keeping its value close to the original. It is often done in statistics, mathematics, and data presentation.
+
+## 🔹 **Rules for Rounding Off**
+
+1. **If the digit to be dropped is less than 5** → leave the last retained digit unchanged.
+
+   * Example: 42.3 → 42 (rounded to nearest whole number).
+
+2. **If the digit to be dropped is 5 or more** → increase the last retained digit by 1.
+
+   * Example: 42.7 → 43 (rounded to nearest whole number).
+
+3. **If rounding to a certain decimal place** → apply the rule at that place.
+
+   * Example: 3.456 → 3.46 (rounded to 2 decimal places).
+
+---
+
+## 🔹 **Types of Rounding**
+
+1. **Rounding to Nearest Whole Number**
+
+   * Example: 78.6 → 79
+
+2. **Rounding to Nearest Tens, Hundreds, Thousands**
+
+   * Example: 4,672 → 4,700 (to nearest hundred)
+
+3. **Rounding to Decimal Places**
+
+   * Example: 2.987 → 2.99 (to 2 decimal places)
+
+4. **Rounding to Significant Figures**
+
+   * Keeps the most important digits of a number.
+   * Example: 0.004562 → 0.00456 (to 3 significant figures)
+
+---
+
+## 🔹 **Importance of Rounding in Statistics**
+
+* Makes large numbers easier to read and compare.
+* Helps in presenting data clearly in tables, graphs, and reports.
+* Reduces unnecessary precision (e.g., reporting population as 1.25 million instead of 1,247,689).
+* Useful in approximations and quick calculations.
+
+---
+
+## ✅ **In Summary:**
+
+Rounding off data means simplifying numbers to a chosen degree of accuracy, using the rule:
+
+* **Drop < 5 → leave as it is.**
+* **Drop ≥ 5 → increase the last kept digit by 1.**
 
 ---
