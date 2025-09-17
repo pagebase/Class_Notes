@@ -201,6 +201,56 @@ np.linspace(0,1,5)    # 5 evenly spaced values from 0 to 1
 np.random.rand(2,2)   # 2x2 array of random floats [0,1)
 ```
 
+#### `linespace` syntax:
+
+```python
+numpy.linspace(start, stop, num=50, endpoint=True, retstep=False, dtype=None, axis=0)
+```
+## 🔹 Parameters Explained
+
+1. **`start`** → The first value in the sequence.
+    
+2. **`stop`** → The last value in the sequence.
+    
+3. **`num` (default=50)** → How many values to generate.
+    
+4. **`endpoint` (default=True)** →
+    
+    - If `True`: include the `stop` value.
+        
+    - If `False`: exclude the `stop` value.
+        
+5. **`retstep` (default=False)** →
+    
+    - If `True`: returns a tuple `(array, step)` where `step` is the spacing.
+        
+6. **`dtype`** → Data type of the output array.
+    
+7. **`axis`** → The axis in the result array to place the samples (useful for higher dimensions).
+
+#### How it works?
+
+![Linespace working](./Resources/img_2.png)
+Where:
+**num** is step.
+
+#### Example
+
+```python
+import numpy as np
+arr=np.linspace(0,10,5) # By default endpoint is True
+# Start: 0
+# Stop: 10
+# num(step): 5
+print(arr)
+```
+
+#### Output:
+
+```css
+[ 0.   2.5  5.   7.5 10. ]
+```
+
 ---
 
 ## 🔹 Indexing & Slicing
@@ -227,19 +277,6 @@ print(arr * 2)     # [2 4 6 8]
 print(arr + 5)     # [6 7 8 9]
 print(arr ** 2)    # [ 1  4  9 16]
 ```
-
----
-
-✅ **In summary**:
-
-- `ndarray` is the **heart of NumPy**.
-    
-- It supports fast, vectorized operations.
-    
-- It has attributes like `shape`, `dtype`, and `ndim` to describe the data.
-    
-- You can slice, index, reshape, and broadcast arrays efficiently.
-    
 
 ---
 
@@ -344,6 +381,88 @@ print(arr_float.itemsize) # 8
 - You can **specify dtype** when creating arrays or **convert** with `.astype()`.
     
 - Choosing the right dtype = balance between **precision and memory usage**.
+    
+
+---
+
+# Boolean indexing
+
+## 1. **Boolean Indexing**
+
+Boolean indexing lets you filter arrays based on conditions.
+
+```python
+import numpy as np
+
+arr = np.array([10, 20, 30, 40, 50])
+
+# Boolean condition
+bool_idx = arr > 25
+print("Boolean mask:", bool_idx)  
+# [False False  True  True  True]
+
+# Applying mask
+filtered = arr[bool_idx]
+print("Filtered values:", filtered)  
+# [30 40 50]
+
+# Directly
+print("Direct condition:", arr[arr % 20 == 0])
+# [20 40]
+```
+
+👉 **Use case**: Select elements that satisfy certain conditions.
+
+---
+
+## 2. **Transposing Arrays**
+
+Transposing changes the rows into columns and vice versa.
+
+```python
+matrix = np.array([[1, 2, 3],
+                   [4, 5, 6]])
+
+print("Original:\n", matrix)
+
+# Transpose
+transposed = matrix.T
+print("Transposed:\n", transposed)
+
+# Equivalent to np.transpose(matrix)
+```
+
+👉 **Use case**: Common in linear algebra, machine learning, and data manipulation.
+
+---
+
+## 3. **Swapping Axes**
+
+For multi-dimensional arrays, you can swap specific axes.
+
+```python
+arr3d = np.array([[[1, 2], [3, 4]],
+                  [[5, 6], [7, 8]]])
+
+print("Original shape:", arr3d.shape)  # (2, 2, 2)
+
+# Swap axes 0 and 2
+swapped = np.swapaxes(arr3d, 0, 2)
+print("Swapped shape:", swapped.shape)
+print(swapped)
+```
+
+👉 `np.swapaxes` is more flexible than transpose because you choose exactly which axes to swap.
+
+---
+
+✅ **Summary**:
+
+- **Boolean Indexing** → filtering arrays by condition.
+    
+- **Transpose (`.T` or `np.transpose`)** → flips rows & columns (or generalizes to all axes).
+    
+- **Swapaxes (`np.swapaxes`)** → swaps two specific dimensions.
     
 
 ---
